@@ -14,7 +14,7 @@
 
 body {
   margin: 0;
-  background-image: url("/images/background.png");
+  background-image: url("/background_gedung.svg");
   background-size: cover; /* Atur gambar agar memenuhi seluruh area */
   background-position: center; /* Posisikan gambar di tengah */
 }
