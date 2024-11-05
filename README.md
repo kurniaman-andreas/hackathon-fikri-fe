@@ -1,10 +1,11 @@
-![Video Thumbnail](https://img.youtube.com/vi/EzzcEL_1o9o/maxresdefault.jpg)
+![Video Thumbnail]()
 
-[Video tutorial](https://youtu.be/EzzcEL_1o9o)
+[Video tutorial](https://drive.google.com/file/d/1MuD7w1O1JNQEEpuX176ETh1BgQKH8sH1/view)
 
-The backend is [here](https://github.com/wass08/r3f-virtual-girlfriend-backend).
+<!-- The backend is [here](https://github.com/wass08/r3f-virtual-girlfriend-backend). -->
 
 Start the development server with
+
 ```
 yarn
 yarn dev
